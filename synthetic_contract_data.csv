@@ -1,0 +1,9 @@
+Contract Name,Contract Number,Task/Delivery Order Number,Modification Number,Principal Contract Requirement,Keyword Search Field,Product Service Code,Contracting Agency,Total Contract Value
+Health Data Integration Support,HC1234,TO-01,MOD-0,Data engineering and analytics support,data analytics,D302,CDC,2400000
+Claims Processing Automation,HC5678,TO-03,MOD-1,Workflow automation and claims triage,automation,D399,HHS,1800000
+Provider Network Modernization,HC9101,TO-02,MOD-0,Provider data system upgrade,provider data,D307,CMS,3200000
+Public Health Surveillance Tool,HC1122,TO-05,MOD-2,Dashboard development and reporting,public health,D319,CDC,2800000
+Eligibility Verification Platform,HC3344,TO-04,MOD-0,Eligibility screening platform,verification,R408,VA,1500000
+Fraud Waste Abuse Monitoring Suite,HC5566,TO-01,MOD-3,Anomaly detection for claims,fwa analytics,R499,CMS,4200000
+Vet Benefits Claims Modernization,HC7788,TO-06,MOD-1,Modernizing VA benefits workflows,va benefits,D318,VA,3100000
+Medicaid Program Data Hub,HC9900,TO-02,MOD-0,Integration of Medicaid data sources,medicaid,D302,HHS,2700000
