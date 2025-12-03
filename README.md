@@ -64,8 +64,3 @@ The outcome is an Excel file containing:
 - Joblib  
 - Excel export (`pandas.to_excel`)
 
----
-
-## 📁 Files in This Repo
-
-
